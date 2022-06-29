@@ -18,5 +18,12 @@
         <input type="text" name="cep" placeholder="CEP">
         <input type="submit">
     </form>
+    
+        <select name="Qual você é">
+            <option value="anunciante">anunciante</option>
+            <option value="consumidor">consumidor</option>
+            </select>
+</form>
+    
 </body>
 </html>
