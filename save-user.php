@@ -6,6 +6,7 @@
     $telefone = $_POST['telefone'];
     $datadenascimento = $_POST['datadenascimento']; 
     $cep = $_POST['cep'];
+    
 
     // $fp = fopen('users.csv', 'a');
     // fwrite($fp, "$nome,$email,$senha\n");

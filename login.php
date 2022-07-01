@@ -26,6 +26,5 @@
             exit();
         }
     }
-
-    header('location: index.php?msg=usuario_ou_senha_invalido')
+    //header('location: index.php?msg=usuario_ou_senha_invalido')
 ?>
