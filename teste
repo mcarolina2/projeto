@@ -1,0 +1,35 @@
+<html lang="pt-br">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Plataforma de anuncio</title>
+	</head>
+	<body>
+		<div class="container theme-showcase" role="main">
+			<h1>MTCP ADDS...</h1>
+			
+			<a data-toggle="modal" data-target="#myModal">
+				Termos uso
+			</a>
+
+			<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+				<div class="modal-dialog" role="document">
+					<div class="modal-content">
+						<div class="modal-header">
+							<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+							<h4 class="modal-title text-center" id="myModalLabel">Termo de Uso</h4>
+						</div>
+						<div class="modal-body">
+							<p> Este termo especifica e exige que todo usuário ao acessar o site da MCTP, leia e compreenda todas as cláusulas do mesmo, visto que ele estabelece entre a EMPRESA e o VISITANTE direitos e obrigações entre ambas as partes, aceitos expressamente pelo VISITANTE a permanecer navegando no site da EMPRESA.
+
+.</p>
+
+							
+						</div>				  
+					</div>
+				</div>
+			</div>		
+		</div>
+  </body>
+</html>
