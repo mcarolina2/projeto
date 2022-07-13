@@ -64,7 +64,7 @@ $data = $stmt->fetchAll();
             </li> 
 
             <li>
-                <a href=""> 
+                <a href="#"> 
             <span class="icon"></span> 
             <span class="icon">Usuario</span> 
             </li> 
@@ -75,24 +75,7 @@ $data = $stmt->fetchAll();
             <span class="icon">Meus Anúncios</span> 
             </li>
 
-            <li>
-                <a href=""> 
-            <span class="icon"></span> 
-            <span class="icon">Configuração</span> 
-            </li> 
-
-            <li>
-                <a href=""> 
-            <span class="icon"></span> 
-            <span class="icon">Duvidas</span> 
-            </li> 
-
-            <li>
-                <a href=""> 
-            <span class="icon"></span> 
-            <span class="icon">Ajuda</span> 
-            </li> 
-
+    
             <li>
                 <a href="logout.php"> 
             <span class="icon"></span> 

@@ -9,7 +9,14 @@ telefone varchar(11),
 datadenascimento date,
 cep varchar(8)
 ); 
-/*insert into users (nome, email, senha, cpf, telefone, datadenascimento, cep)
- values ('carol','carol@email.com','123','12345678932','81945619873','1206/2000','12897654')*/; 
- 
+
  select * from users;
+ create table anuncios ( 
+id integer primary key auto_increment,
+titulo varchar(255),
+ano date,
+descricao varchar(255), 
+user_id integer,
+img BLOB,
+constraint foreign key (user_id) references users(id)
+); drop table anuncios:
